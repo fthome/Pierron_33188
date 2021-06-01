@@ -4,13 +4,13 @@ CAPTEUR DE PRESSION DIFFERENTIEL AU FORMAT GROVE [33188](https://www.pierron.fr/
 
 ![33188](/Img/33188.png)
 
-# Installation
+# Installation :
 Créer un nouveau repertoire nommé "Pierron_33188" dans le dossier "libraries" de votre dossier Arduino.
 Y placer tous les fichiers.
 Ou
 Télécharger le dépot en ZIP et dans l'IDE Arduino : Croquis / Inclure bibliothèque / Ajouter la bibliothèque ZIP
 
-# Usage
+# Usage :
 Pour utiliser la librairie dans votre propre projet, importer la avec  *Sketch > Import Library*.
 
 # Schémas :
