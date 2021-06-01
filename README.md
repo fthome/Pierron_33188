@@ -19,7 +19,7 @@ Pour utiliser la librairie dans votre propre projet, importer la avec  *Sketch >
 
 ![BRD-33188](/Img/BRD-33188.png)
 
-# Exemples :
+# Exemple :
 ### Arduino / C++
 ```cpp
 // Baud rate 9600
