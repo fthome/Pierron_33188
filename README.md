@@ -2,7 +2,7 @@
 
 CAPTEUR DE PRESSION DIFFERENTIEL AU FORMAT GROVE [33188](https://www.pierron.fr/capteur-de-pression-dans-un-liquide.html)
 
-![33188](/Img/33188.png)
+![33188](/img/L-33188.png)
 
 # Installation :
 Créer un nouveau repertoire nommé "Pierron_33188" dans le dossier "libraries" de votre dossier Arduino.
@@ -15,9 +15,9 @@ Pour utiliser la librairie dans votre propre projet, importer la avec  *Sketch >
 
 # Schémas :
 
-![SCH-33188](/Img/SCH-33188.png)
+![SCH-33188](/img/SCH-33188.png)
 
-![BRD-33188](/Img/BRD-33188.png)
+![BRD-33188](/img/BRD-33188.png)
 
 # Exemple :
 ### Arduino / C++
