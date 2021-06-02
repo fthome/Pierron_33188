@@ -15,7 +15,7 @@ Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch >
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [NOTICE](https://github.com/pierron-asco-celda/33188-CAPTEUR-PRESSION/blob/main/src/Pierron-33188-Datasheet.pdf)
+Ressource utilisation : [NOTICE](https://github.com/pierron-asco-celda/Pierron_33188/blob/master/src/Pierron-33188-Datasheet.pdf)
 
 # Schémas :
 
