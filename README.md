@@ -13,6 +13,10 @@ télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure biblio
 # Usage :
 Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.
 
+# RESSOURCES À TÉLÉCHARGER :
+
+Ressource utilisation : [NOTICE](https://github.com/pierron-asco-celda/33188-CAPTEUR-PRESSION/blob/main/src/Pierron-33188-Datasheet.pdf)
+
 # Schémas :
 
 ![SCH-33188](/img/SCH-33188.png)
