@@ -1,17 +1,17 @@
-# 33188 CAPTEUR DE PRESSION DIFFERENTIEL AU FORMAT GROVE
+# 33188 CAPTEUR DE PRESSION DIFFÉRENTIEL AU FORMAT GROVE
 
-CAPTEUR DE PRESSION DIFFERENTIEL AU FORMAT GROVE [33188](https://www.pierron.fr/capteur-de-pression-dans-un-liquide.html)
+CAPTEUR DE PRESSION DIFFÉRENTIEL AU FORMAT GROVE [33188](https://www.pierron.fr/capteur-de-pression-dans-un-liquide.html)
 
 ![33188](/img/L-33188.png)
 
 # Installation :
-Créer un nouveau repertoire nommé "Pierron_33188" dans le dossier "libraries" de votre dossier Arduino.
+Créer un nouveau répertoire nommé "Pierron_33188" dans le dossier "libraries" de votre dossier Arduino.
 Y placer tous les fichiers.
 Ou
-Télécharger le dépot en ZIP et dans l'IDE Arduino : Croquis / Inclure bibliothèque / Ajouter la bibliothèque ZIP
+télécharger le dépôt en ZIP et dans l'IDE Arduino : Croquis / inclure bibliothèque / ajouter la bibliothèque ZIP.
 
 # Usage :
-Pour utiliser la librairie dans votre propre projet, importer la avec  *Sketch > Import Library*.
+Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch > Import Library*.
 
 # Schémas :
 
@@ -45,6 +45,6 @@ void loop(){
   delay(1000);
 }
 ```
-## A propos
+## À propos :
 
-PIERRON ASCO-CELDA (https://www.pierron.fr/)
+PIERRON ASCO-CELDA (https://www.pierron.fr/).
