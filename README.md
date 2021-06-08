@@ -7,7 +7,7 @@ Caractéristiques techniques :
 
 ![33188](/img/L-33188.png)
 
-# Installation :
+# Installation dans IDE Arduino:
 Créer un nouveau répertoire nommé "Pierron_33188" dans le dossier "libraries" de votre dossier Arduino.
 Y placer tous les fichiers.
 ou
@@ -18,7 +18,7 @@ Pour utiliser la librairie dans votre propre projet, importez-la avec  *Sketch >
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [NOTICE](https://github.com/pierron-asco-celda/Pierron_33188/blob/master/src/Pierron-33188-Datasheet.pdf)
+Ressource utilisation : [MPX2202](https://github.com/pierron-asco-celda/Pierron_33188/blob/master/src/Pierron-33188-Datasheet.pdf)
 
 # Schémas :
 
