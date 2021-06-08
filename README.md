@@ -1,4 +1,4 @@
-# 33188 CAPTEUR DE PRESSION DIFFÉRENTIELLE AU FORMAT GROVE
+# 33188 Capteur de pression differentielle GROVE
 
 CAPTEUR DE PRESSION DIFFÉRENTIELLE AU FORMAT GROVE [33188](https://www.pierron.fr/capteur-de-pression-dans-un-liquide.html)
 Caractéristiques techniques :
