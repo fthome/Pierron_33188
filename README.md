@@ -1,6 +1,7 @@
 # 33188 Capteur de pression differentielle GROVE
 
 CAPTEUR DE PRESSION DIFFÉRENTIELLE AU FORMAT GROVE [33188](https://www.pierron.fr/capteur-de-pression-dans-un-liquide.html)
+
 Caractéristiques techniques :
 - Alimentation : 3,3 à 5 V
 - Plage de mesure : 0 à 50 kPa
