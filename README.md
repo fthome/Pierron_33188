@@ -30,8 +30,10 @@ Ressource utilisation : [MPX2202](https://github.com/pierron-asco-celda/Pierron_
 # Exemple :
 ### Arduino / C++
 ```cpp
-// Baud rate 9600;*
-
+/*
+    ** Mesure pression differentielle module Grove **
+       Moniteur série -> Baud rate 9600.*
+*/
 #include "Pierron_33188.h"
 
 Pierron_33188 capteur = new Pierron_33188();
